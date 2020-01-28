@@ -293,38 +293,4 @@ for i in range(len(count_3D)-1):
 			latitude1 = lat1+j*dw 
 			latitude2 = lat1+(j+1)*dw
 			print >>f,count,depth1,depth2,longitude1,longitude2,latitude1,latitude2
-			
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+		
