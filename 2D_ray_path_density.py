@@ -209,38 +209,4 @@ for i in range(int(a_count)):
 		longitude2 = long1+(j+1)*dw
 		print >>ff,latitude1,latitude2,longitude1,longitude2,count
 		
-#We have the information about corner points of the box and the value assigned to it.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#We have the information about corner points of the box and the value assigned to 
